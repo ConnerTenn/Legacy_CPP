@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pre-Alpha-1.12.2", "C++Test_Text_3D\C++Test_Text_3D.vcxproj", "{610122E3-5473-4C17-9623-D70933D5A57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610122E3-5473-4C17-9623-D70933D5A57A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{610122E3-5473-4C17-9623-D70933D5A57A}.Debug|Win32.Build.0 = Debug|Win32
+		{610122E3-5473-4C17-9623-D70933D5A57A}.Release|Win32.ActiveCfg = Release|Win32
+		{610122E3-5473-4C17-9623-D70933D5A57A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
