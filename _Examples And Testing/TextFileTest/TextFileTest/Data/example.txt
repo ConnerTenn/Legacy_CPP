@@ -1,0 +1,3 @@
+Deaths:4
+Pos:5,7
+Age:6

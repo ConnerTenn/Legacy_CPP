@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<GameData>
+  <LevelName Name =""></LevelName>
+  <Position X="5" Y="9"></Position>
+  <Health Health="" HeartCounter=""></Health>
+  <Items>
+    <Weapons></Weapons>
+    <PowerUps></PowerUps>
+    <Items></Items>
+  </Items>
+  <Stats></Stats>
+</GameData>
